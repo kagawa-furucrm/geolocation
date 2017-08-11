@@ -36,10 +36,10 @@
             "sourcePath": "/Users/kagawa_hoang/geolocation/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 306,
-            "modifiedTime": 1502462267000,
-            "changeTime": 1502462267000,
-            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
+            "size": 238,
+            "modifiedTime": 1502461665000,
+            "changeTime": 1502461665000,
+            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732"
         }
     ],
     [
@@ -47,13 +47,14 @@
         {
             "sourcePath": "/Users/kagawa_hoang/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 102,
-            "modifiedTime": 1502461916000,
-            "changeTime": 1502461916000,
-            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
+            "size": 68,
+            "modifiedTime": 1502457940000,
+            "changeTime": 1502457940000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -61,13 +62,14 @@
         {
             "sourcePath": "/Users/kagawa_hoang/geolocation",
             "isDirectory": true,
-            "size": 306,
-            "modifiedTime": 1502461072000,
-            "changeTime": 1502461072000,
-            "contentHash": "4e7c1dce819cac4f989b59112851b4cd18059c1a",
+            "size": 238,
+            "modifiedTime": 1502458611000,
+            "changeTime": 1502458611000,
+            "contentHash": "3dae32c665681fc89661729c131899b7036b97f4",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true
+            "isWorkspace": true,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -697,14 +699,14 @@
     [
         "/Users/kagawa_hoang/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/kagawa_hoang/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
+            "size": 10923,
+            "modifiedTime": 1502459760000,
+            "changeTime": 1502459760000,
+            "contentHash": "995dd5bb2926455e3fbb7bad6f148d80ae0aed9f",
             "isMetadataFile": true,
-            "size": 11032,
-            "modifiedTime": 1502462267000,
-            "changeTime": 1502462267000,
-            "contentHash": "80ffed4026865bcba852e8fbb04e12a1927cdcae"
+            "state": "u"
         }
     ],
     [
@@ -814,222 +816,40 @@
     [
         "/Users/kagawa_hoang/geolocation/force-app/main/default/classes",
         {
+            "state": "u",
             "sourcePath": "/Users/kagawa_hoang/geolocation/force-app/main/default/classes",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 136,
             "modifiedTime": 1502461734000,
             "changeTime": 1502461734000,
-            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
         }
     ],
     [
         "/Users/kagawa_hoang/geolocation/force-app/main/default/classes/AccountController.cls",
         {
+            "state": "u",
             "sourcePath": "/Users/kagawa_hoang/geolocation/force-app/main/default/classes/AccountController.cls",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 386,
             "modifiedTime": 1502461734000,
             "changeTime": 1502461734000,
-            "contentHash": "8221ae59382d1f2379b61e64b67aeff8e3d502aa",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "8221ae59382d1f2379b61e64b67aeff8e3d502aa"
         }
     ],
     [
         "/Users/kagawa_hoang/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/kagawa_hoang/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1502461665000,
             "changeTime": 1502461665000,
-            "contentHash": "d388a388b0a95b0227831a265ba9b57f8672d004",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/kagawa_hoang/geolocation/force-app/main/default/aura/AccountLocator",
-        {
-            "sourcePath": "/Users/kagawa_hoang/geolocation/force-app/main/default/aura/AccountLocator",
-            "isDirectory": true,
-            "size": 272,
-            "modifiedTime": 1502462023000,
-            "changeTime": 1502462023000,
-            "contentHash": "f6bd7d3a23295ae7ef7a6f8a51c67ae972d48a28",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/kagawa_hoang/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
-        {
-            "sourcePath": "/Users/kagawa_hoang/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
-            "isDirectory": false,
-            "size": 156,
-            "modifiedTime": 1502461980000,
-            "changeTime": 1502461980000,
-            "contentHash": "f3f590857881ca3c0ed746a2c23effadffed7691",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/kagawa_hoang/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
-        {
-            "sourcePath": "/Users/kagawa_hoang/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
-            "isDirectory": false,
-            "size": 246,
-            "modifiedTime": 1502461916000,
-            "changeTime": 1502461916000,
-            "contentHash": "93ad29ee05362ba61f7a3bbeabf9346e600169ce",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/kagawa_hoang/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
-        {
-            "sourcePath": "/Users/kagawa_hoang/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
-            "isDirectory": false,
-            "size": 92,
-            "modifiedTime": 1502462022000,
-            "changeTime": 1502462022000,
-            "contentHash": "2252c3c8240606770ad85210fb6c35c3f304faa9",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/kagawa_hoang/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
-        {
-            "sourcePath": "/Users/kagawa_hoang/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
-            "isDirectory": false,
-            "size": 65,
-            "modifiedTime": 1502461916000,
-            "changeTime": 1502461916000,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/kagawa_hoang/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
-        {
-            "sourcePath": "/Users/kagawa_hoang/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
-            "isDirectory": false,
-            "size": 45,
-            "modifiedTime": 1502461916000,
-            "changeTime": 1502461916000,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/kagawa_hoang/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
-        {
-            "sourcePath": "/Users/kagawa_hoang/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
-            "isDirectory": false,
-            "size": 50,
-            "modifiedTime": 1502461916000,
-            "changeTime": 1502461916000,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/kagawa_hoang/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/kagawa_hoang/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 267,
-            "modifiedTime": 1502462267000,
-            "changeTime": 1502462267000,
-            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
-        }
-    ],
-    [
-        "/Users/kagawa_hoang/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/kagawa_hoang/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 18239,
-            "modifiedTime": 1502462267000,
-            "changeTime": 1502462267000,
-            "contentHash": "2e7ae3e6e17d30907ede44a177e30e0788c3192b"
-        }
-    ],
-    [
-        "/Users/kagawa_hoang/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/kagawa_hoang/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 5665,
-            "modifiedTime": 1502462267000,
-            "changeTime": 1502462267000,
-            "contentHash": "28aa78f5da9c28a170da9bd200341268ca40700c"
-        }
-    ],
-    [
-        "/Users/kagawa_hoang/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/kagawa_hoang/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 5661,
-            "modifiedTime": 1502462267000,
-            "changeTime": 1502462267000,
-            "contentHash": "fad07bdcd9f7fdcc4a0fca93d7b75dca7b32f689"
-        }
-    ],
-    [
-        "/Users/kagawa_hoang/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/kagawa_hoang/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 6001,
-            "modifiedTime": 1502462267000,
-            "changeTime": 1502462267000,
-            "contentHash": "a3e0259648daa926b32408e4c45905577e5c1b56"
-        }
-    ],
-    [
-        "/Users/kagawa_hoang/geolocation/force-app/main/default/tabs",
-        {
-            "state": "u",
-            "sourcePath": "/Users/kagawa_hoang/geolocation/force-app/main/default/tabs",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 102,
-            "modifiedTime": 1502462267000,
-            "changeTime": 1502462267000,
-            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
-        }
-    ],
-    [
-        "/Users/kagawa_hoang/geolocation/force-app/main/default/profiles",
-        {
-            "state": "u",
-            "sourcePath": "/Users/kagawa_hoang/geolocation/force-app/main/default/profiles",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 204,
-            "modifiedTime": 1502462267000,
-            "changeTime": 1502462267000,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "d388a388b0a95b0227831a265ba9b57f8672d004"
         }
     ]
 ]
